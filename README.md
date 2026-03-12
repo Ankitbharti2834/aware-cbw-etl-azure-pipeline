@@ -1,4 +1,4 @@
-# Project 2 — End-to-End ETL Pipeline & Azure Data Warehouse Modernization
+# Project — End-to-End ETL Pipeline & Azure Data Warehouse Modernization
 
 **Organization:** Aware Custom Biometric Wearables  
 **Domain:** Data Engineering | Cloud Architecture | ETL/ELT  
