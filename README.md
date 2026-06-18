@@ -77,4 +77,4 @@ python etl/etl_pipeline.py
 Azure Data Factory · Azure Synapse Analytics · ADLS Gen2 · SSIS · SQL Server · SSMS · Python (Pandas, NumPy) · Azure DevOps (CI/CD)
 
 ---
-*For technical discussion, connect via [LinkedIn](https://linkedin.com/in/ankitbharti2834).*
+*For technical discussion, connect via [LinkedIn](https://linkedin.com/in/a-bharti/).*
